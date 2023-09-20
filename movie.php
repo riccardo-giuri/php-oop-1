@@ -13,7 +13,5 @@ class Movie {
         $this->genre = $_genre;
         $this->minutes = $_minutes;
     }
-
-    
 }
 ?>
